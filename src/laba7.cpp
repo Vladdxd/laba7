@@ -25,5 +25,6 @@ int main()
 		sum += temp;
 		iterations++;
 	}
-	cout << "Сума = " << sum << "| Кількість ітерацій=" << iterations;
+	cout << "Сумa= " << sum << "| Кількість ітерацій=" << iterations;
+	cout << "test";
 }
