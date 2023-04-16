@@ -26,5 +26,6 @@ int main()
 		iterations++;
 	}
 	cout << temp << endl;
+	cout << "Result" << endl;
 	cout << "Сума = " << sum << "| Кількість ітерацій=" << iterations;
 }
